@@ -1,0 +1,10 @@
+.box{
+background-color: rgb(83, 83, 235);
+box-shadow: inset;
+text-align: center;
+width: 35%;
+height: 100%;
+margin: auto;
+padding: 55px;
+box-sizing: 100%;
+}
